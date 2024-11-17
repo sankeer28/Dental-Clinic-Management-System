@@ -1,5 +1,6 @@
 # 🦷 Dental Clinic Management System
-![image](https://github.com/user-attachments/assets/aeb01db9-afc5-4322-bbf4-e6e0888b0f9e)
+![image](https://github.com/user-attachments/assets/0213b682-1c7e-4d1d-8241-f50e58673c0d)
+
 
 
 The Dental Clinic Management System is a comprehensive software solution designed to streamline dental clinic operations. It provides an intuitive interface for managing patient records, appointments, treatments, billing, and staff information.
