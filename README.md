@@ -7,7 +7,7 @@ The Dental Clinic Management System is a comprehensive software solution designe
 ## ✨ Features
 
 - 👥 Patient Management
-  - Add, edit, and delete patient profiles
+  - Add, edit, search, and delete patient profiles
   - Track patient medical history
   - Manage contact information
 
