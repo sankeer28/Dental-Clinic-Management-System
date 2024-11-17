@@ -42,24 +42,14 @@ The Dental Clinic Management System is a comprehensive software solution designe
 
 ### 1. Clone the Repo
 ```
-git clone https://github.com/yourusername/dental-clinic-management.git
-cd dental-clinic-management
+git clone https://github.com/sankeer28/Dental-Clinic-Management-System.git
+cd Dental-Clinic-Management-System-main
 ```
 ### 2. Install dependencies
 ```
 pip install -r requirements.txt
 ```
-### 3. edit config.py
-```
-DB_CONFIG = {
-    'username': 'your_username',
-    'password': 'your_password',
-    'host': 'host',
-    'port': 1521,
-    'sid': 'orcl'
-}
-```
-### 4. run the applciation
+### 3. run the applciation
 ```
 python main.py
 ```
