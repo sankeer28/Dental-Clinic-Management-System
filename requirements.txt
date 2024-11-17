@@ -1,6 +1,0 @@
-
-cx_Oracle
-customtkinter
-datetime
-logging
-tkcalendar
