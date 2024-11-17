@@ -6,30 +6,24 @@
 The Dental Clinic Management System is a comprehensive software solution designed to streamline dental clinic operations. It provides an intuitive interface for managing patient records, appointments, treatments, billing, and staff information.
 
 ## ✨ Features
+🔐 Simple Login GUI
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/25bd671e-829c-42de-a7a3-7ec36534e4b9" alt="Simple Login GUI" width="300"/>
+</div>
 
-- 👥 Patient Management
-  - Add, edit, search, and delete patient profiles
-  - Track patient medical history
-  - Manage contact information
+⚙️ Edit tables 
 
-- 📅 Appointment Scheduling
-  - Create and manage dental appointments
-  - Track appointment status
-  - View dentist schedules
+🔍 Search tables
 
-- 🦷 Treatment Tracking
-  - Record dental treatments
-  - Track treatment types and costs
-  - Link treatments to specific appointments
+👥 Patient Management
 
-- 💰 Billing System
-  - Generate patient bills
-  - Track billing status
-  - Manage payment records
+  📅 Appointment Scheduling
 
-- 👨‍⚕️ Staff Management
-  - Manage dentist and receptionist profiles
-  - Track staff roles and specializations
+  🦷 Treatment Tracking
+
+  💰 Billing System
+
+  👨‍⚕️ Staff Management
 
 ## 🖥️ Prerequisites
 
